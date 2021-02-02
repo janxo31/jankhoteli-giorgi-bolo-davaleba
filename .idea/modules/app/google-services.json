@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886058038552",
+    "project_id": "lasr-homework",
+    "storage_bucket": "lasr-homework.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886058038552:android:0040663d5d43fa6b1d1a6d",
+        "android_client_info": {
+          "package_name": "com.example.bolodavaleba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886058038552-o6pe93102latcoogkenms11jidcg7cvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bolodavaleba",
+            "certificate_hash": "3736080ce167029703f096b1a55afad2bd9ab7d5"
+          }
+        },
+        {
+          "client_id": "886058038552-5vshj6d6nok6cvkcmo1h83ovqpal5lj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUeBxHpZk5gaX7_6A1NNJyD5Xu1jrJJ6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886058038552-5vshj6d6nok6cvkcmo1h83ovqpal5lj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
